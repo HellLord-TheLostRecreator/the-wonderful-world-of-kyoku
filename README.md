@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Wonderful World of Kyoku
 
 You can use the [editor on GitHub](https://github.com/HellLord-TheLostRecreator/the-wonderful-world-of-kyoku/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
