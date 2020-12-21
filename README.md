@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/HellLord-TheLostRecreator/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Discussions and animations can be found here (https://github.com/HellLord-TheLostRecreator/the-wonderful-world-of-kyoku/discussions)
+Discussions and animations can be found [here](https://github.com/HellLord-TheLostRecreator/the-wonderful-world-of-kyoku/discussions)
 ### Search Kyoku
 
 
